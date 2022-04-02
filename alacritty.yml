@@ -34,4 +34,11 @@ window:
 selection:
   save_to_clipboard: true
 
+font:
+  size: 10.0
+
+cursor:
+  style:
+    blinking: Always
+
 live_config_reload: true
