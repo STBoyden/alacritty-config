@@ -35,6 +35,8 @@ selection:
   save_to_clipboard: true
 
 font:
+  normal:
+    family: Go Mono
   size: 10.0
 
 cursor:
