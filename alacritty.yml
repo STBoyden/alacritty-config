@@ -36,8 +36,18 @@ selection:
 
 font:
   normal:
-    family: Go Mono
+    family: JetBrains Mono
   size: 10.0
+
+shell:
+  program: /home/sboyden/.cargo/bin/nu
+  args:
+    - --login
+
+mouse:
+  hints:
+    launcher:
+        program: xdg-open
 
 cursor:
   style:
