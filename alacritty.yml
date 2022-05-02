@@ -40,9 +40,7 @@ font:
   size: 10.0
 
 shell:
-  program: /home/sboyden/.cargo/bin/nu
-  args:
-    - --login
+  program: /home/sboyden/.cargo/bin/zellij
 
 mouse:
   hints:
@@ -51,6 +49,7 @@ mouse:
 
 cursor:
   style:
+    shape: Underline
     blinking: Always
 
 live_config_reload: true
